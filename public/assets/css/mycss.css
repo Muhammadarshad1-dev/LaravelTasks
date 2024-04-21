@@ -1,0 +1,35 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#blog-img{
+    padding-top: 0px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #decccc;
+    border-radius: 11px;
+}
+
+.edit-images{
+    padding-top: 17px;
+}
+
+.img-wrap {
+    position: relative;
+    float: left;
+    padding-inline: inherit;
+}
+.img-wrap #close {
+    position: absolute;
+    top: 0px;
+    /* font-size: 15px; */
+}
+
+
