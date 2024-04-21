@@ -1,3 +1,14 @@
+how to Run this Project
+1- first you should clone this project 
+2 - Migrate the Database with this command -> php artisan migrate
+3-  Now run this seed command for admin seeder -> php artisan db:seed
+4-  Now at the last run this command for run the project -> Php artisan serve
+
+
+if you want to now the admin info username and password then you can find it in this AdminSeeders
+-> LaravelTasks -> Database -> Seeders -> AdminSeeder.php  
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
